@@ -3,5 +3,5 @@ X++;
 document.write(X);
 
 
-Math.sqrt4;
+Math.sqrt(4);
 document.write(Math.sqrt);
